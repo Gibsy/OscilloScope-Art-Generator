@@ -9,7 +9,7 @@ Converts a black-on-white image into a WAV file that draws the image on an oscil
 
 ```bash
 pip install -r requirements.txt
-python oscilloscope_art.py
+python OscilloScopeArt.py
 ```
 
 1. Click **Open Image** — load a black-on-white PNG/JPG
