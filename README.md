@@ -3,7 +3,7 @@
 Converts a black-on-white image into a WAV file that draws the image on an oscilloscope in X-Y mode.
 
 ## Example
-![preview](preview.png)
+![preview](preview.jpg)
 
 ## Usage
 
