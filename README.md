@@ -18,7 +18,7 @@ python OscilloScopeArt.py
 4. Open the WAV in your oscilloscope viewer in **X-Y mode**
    (make sure that you enable sound in your tab)
 
-> Test online: [gibsy.site/OscilloScope-XY](encrize.github.io/OscilloScope-XY/)
+> Test online: [encrize.vip/OscilloScope-XY](encrize.github.io/OscilloScope-XY/)
 
 ## Settings
 
